@@ -9,4 +9,4 @@ I use my Paperspace machine for cloud gaming on my Amazon Fire TV Stick. I wante
 1. Get an API key in the Paperspace console.
 2. Upload `index.html` to your server or webspace.
 3. Add the machine id and the api-key to the URL of the file (e.g. `http://myserver.com/index.html?machine=ab1c2n345&key=1234567890`).
-(4. Save this URL to your bookmarks to call it easily)
+4. (Save this URL to your bookmarks to call it easily. On a Fire TV, use the [Bookmarker App](http://www.aftvnews.com/introducing-my-new-bookmarker-apps-for-the-amazon-fire-tv-load-websites-in-just-one-click-from-the-home-screen/).)
